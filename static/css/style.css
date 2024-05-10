@@ -1,0 +1,29 @@
+/* Add your custom CSS styles here */
+
+/* Example styles for the search form */
+.form-control {
+    border-radius: 20px; /* Adjust border radius as needed */
+}
+
+.btn-outline-success {
+    border-radius: 20px; /* Adjust border radius as needed */
+}
+
+/* Example styles for the card */
+.card {
+    margin-top: 20px; /* Adjust margin as needed */
+    border-radius: 20px; /* Adjust border radius as needed */
+}
+
+.card-header {
+    background-color: #333; /* Adjust background color as needed */
+    color: #fff; /* Adjust text color as needed */
+}
+
+.card-title {
+    color: #333; /* Adjust text color as needed */
+}
+
+.card-text {
+    color: #555; /* Adjust text color as needed */
+}
